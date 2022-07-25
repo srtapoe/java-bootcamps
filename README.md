@@ -3,7 +3,7 @@
 <p align="center">Bootcamp Santander Code Girls 🤖</p>
 
 <h4 align="center"> 
-	⚠️ Em andamento ⚠️
+	✅ Finalizado ✅
 </h4>
 
 
@@ -15,9 +15,9 @@
 
 ### Desafios Intermediários em Java
 
-- [ ] Esfera
-- [ ] Deu a louca no gerente
-- [ ] Percentual de eleitores
+- [x] [Esfera](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/codergirls/Esfera.java)
+- [x] [Deu a louca no gerente](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/codergirls/LoucaNoGerente.java)
+- [x] [Percentual de eleitores](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/codergirls/PercentualEleitores.java)
 
 
 <p align="center">Bootcamp Spring Experience 🤖</p>
