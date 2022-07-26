@@ -21,3 +21,19 @@
 
 
 <p align="center">Bootcamp Spring Experience 🤖</p>
+
+<h4 align="center"> 
+	✏️Em andamento✏️
+</h4>
+
+
+### Desafios em Java
+
+- [x] [Entrada e Saída e Pulando Nomes](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/spring/PulandoNomes.java)
+- [ ] [Médias Ponderadas]()
+- [ ] [Jogadores Viciados]()
+- [ ] [Proibido a entrada de menores]()
+
+
+
+
