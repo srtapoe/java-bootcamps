@@ -30,9 +30,12 @@
 ### Desafios em Java
 
 - [x] [Entrada e Saída e Pulando Nomes](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/spring/PulandoNomes.java)
-- [ ] [Médias Ponderadas]()
-- [ ] [Jogadores Viciados]()
-- [ ] [Proibido a entrada de menores]()
+- [x] [Médias Ponderadas](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/spring/MediasPonderadas.java)
+- [x] [Jogadores Viciados](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/spring/JogadoresViciados.java)
+- [x] [Proibido a entrada de menores](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/spring/ProibidoEntradaMenores.java)
+- [x] [Solução aceita do Desafio Proibido a entrada de menores](https://github.com/srtapoe/java-bootcamps/blob/main/src/main/java/br/com/bootcamps/spring/Teste.java)
+
+#### Minha solução no desafio Proibido a entrada de menores não passou porque a saída sai com "[]" devido o uso do Arraylist, mas dava para converter o arraylist para Chart para passar a solução, mas preferi só completar a solução dada no bootcamp.
 
 
 
